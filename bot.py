@@ -69,7 +69,7 @@ PAYMENT_METHODS = {
         'name': 'Bitcoin Cash',
         'emoji': '💎',
         'min_withdrawal': 0.25,
-        'fee': 0,a
+        'fee': 0,
         'address_pattern': r'^(bitcoincash:)?(q|p)[a-z0-9]{41}$',  # BCH address pattern
         'address_example': 'bitcoincash:qpm2qsznhks23z7629mms6s4cwef74vcwvy22gdx6a'
     },
